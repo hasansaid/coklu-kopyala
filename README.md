@@ -1,2 +1,2 @@
-# coklu-kopyala
+# Çoklu Kopyala
 Veri kaybetmeden kopyalamanın yolu
